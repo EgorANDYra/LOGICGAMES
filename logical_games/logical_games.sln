@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logical_games", "logical_games\logical_games.csproj", "{56832D3F-D9DB-4F88-9E0E-A1E8D853D8D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56832D3F-D9DB-4F88-9E0E-A1E8D853D8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56832D3F-D9DB-4F88-9E0E-A1E8D853D8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56832D3F-D9DB-4F88-9E0E-A1E8D853D8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56832D3F-D9DB-4F88-9E0E-A1E8D853D8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E190BCE-0BD0-46D1-89BC-1F6442C27B26}
+	EndGlobalSection
+EndGlobal
